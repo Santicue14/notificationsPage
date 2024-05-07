@@ -1,4 +1,4 @@
-# Project Name
+# Notificacions for Social Network
 
 This project was developed by Santicue14 as part of a challenge by Frontend Mentor.
 
